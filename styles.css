@@ -15,6 +15,52 @@
    Body:     'Inter', sans-serif
    ========================================================================== */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    background-color: #1b1f27;
+    color: #f4f1ea;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
 h1 {
     text-align: center;
+    color: #e0a458;
+}
+
+h2 {
+    color: #e0a458;
+    font-size: 1.25rem;
+}
+
+main {
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.bio p {
+    color: #f4f1ea;
+}
+
+.bio p + p {
+    margin-top: 1rem;
+}
+
+a {
+    color: #7fb3d5;
+}
+
+a:hover {
+    color: #f2b96b;
 }

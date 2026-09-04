@@ -1,3 +1,20 @@
-h1{
+/* ==========================================================================
+   Color Palette
+   --------------------------------------------------------------------------
+   Background:      #1b1f27  (deep charcoal navy)
+   Surface/Card:     #262b36  (slightly lighter charcoal)
+   Primary text:     #f4f1ea  (warm off-white)
+   Secondary text:   #b8bcc6  (muted grey-blue)
+   Accent:           #e0a458  (warm amber)
+   Accent (hover):   #f2b96b  (lighter amber)
+   Links:            #7fb3d5  (soft sky blue)
+   ==========================================================================
+   Fonts
+   --------------------------------------------------------------------------
+   Headings: 'Poppins', sans-serif
+   Body:     'Inter', sans-serif
+   ========================================================================== */
+
+h1 {
     text-align: center;
 }

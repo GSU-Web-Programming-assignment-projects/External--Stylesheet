@@ -71,9 +71,9 @@ main {
 .profile-photo {
     width: 160px;
     height: 160px;
-    border-radius: 50%;
+    border-radius: 55%;
     object-fit: cover;
-    border: 3px solid #e0a458;
+    border: 4px solid #e0a458;
     background-color: #262b36;
 }
 
